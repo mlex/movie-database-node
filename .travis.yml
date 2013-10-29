@@ -21,8 +21,8 @@ before_script:
 # more information on automatic deployment to heroku
 deploy:
   provider: heroku
-  app: movie-database-node
+  app: agilejs-mlex
   api_key:
-    secure: ! 'VM4D68593b50AlKIJLnBJjukmf6XzR0lX8t/GBT8JBklxnXQKHUcfwNjE9jf
-      mra/rYws45pRyWjJzITPHScTtmK82bcj+5FCoB4sjEvOqAKWAcFPSbK+oJ/g
-      P3UPGArmHC73gZ/YFoD6TCzRJDLOYCekaiscPEQr9Bs9cwXCRp0='
+  - secure: ! 'pHquKT0WMJY4TpISpCOMGI54gC9jOvKGDpj5D1eMVAiImiVxOVJL7a3H2rUB
+      /SNryGm42E8uQ+fcBEQDLdCjLGG5N8TA6tfjkNG9v85wr9sJpO1fpfQ2EExh
+      GCaGi8EbBkOqz4NjjbXOpsALl6f1vxzscjARjhaV7LOJKql7hAQ='
